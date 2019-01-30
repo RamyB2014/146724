@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="true"
+  DeleteUnreferenced="true"
+  LastImport="2019-01-29T17:11:58.9545302-08:00">
+  <Files>
+    <Url
+      Source="file:///E:/C-Drive/rbutros/Documents/My Projects/ProjectA/ProjectA.flprj"
+      AbsoluteSource="file:///E:/C-Drive/rbutros/Documents/My Projects/ProjectA/ProjectA.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../ProjectA/Content/TopicA.htm"
+      AbsoluteSource="file:///E:/C-Drive/rbutros/Documents/My Projects/ProjectA/Content/TopicA.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/TopicA.htm"
+      TimeStamp="1/16/2019 6:34:52 PM" />
+  </GeneratedFiles>
+</CatapultProjectImport>
